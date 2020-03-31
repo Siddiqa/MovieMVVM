@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieMvvm</string>
+    <string name="loading_movies">Loading movies.....</string>
+    <string name="loading_details">Loading Details.......</string>
+</resources>
